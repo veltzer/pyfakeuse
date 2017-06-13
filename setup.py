@@ -6,7 +6,7 @@ if not sys.version_info[0] == 3:
 
 setuptools.setup(
     name='pyfakeuse',
-    version='0.0.3',
+    version='0.0.4',
     description='pyfakeuse helps you fool development environments and code inspectors',
     long_description='pyfakeuse helps you fool development environments and code inspectors',
     url='https://veltzer.github.io/pyfakeuse',
