@@ -6,7 +6,7 @@ if not sys.version_info[0] == 3:
 
 setuptools.setup(
     name='pyfakeuse',
-    version='0.0.4',
+    version='0.0.5',
     description='pyfakeuse helps you fool development environments and code inspectors',
     long_description='pyfakeuse helps you fool development environments and code inspectors',
     url='https://veltzer.github.io/pyfakeuse',
@@ -19,6 +19,5 @@ setuptools.setup(
         'Programming Language :: Python :: 3',
     ],
     keywords='python fake use variables idea pycharm fool',
-    package_dir={'': 'src'},
-    packages=setuptools.find_packages('src'),
+    packages=setuptools.find_packages(),
 )
