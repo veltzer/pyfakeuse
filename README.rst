@@ -1,1 +1,2 @@
-This is to make 'python setup.py sdist' happy...
+# pyfakeuse
+Tiny module to help you use function parameters to mislead development environments
