@@ -5,7 +5,7 @@ setuptools.setup(
     version='0.0.5',
     description='pyfakeuse helps you fool development environments and code inspectors',
     long_description='pyfakeuse helps you fool development environments and code inspectors',
-    url='https://github.com/veltzer/pyfakeuse',
+    url='https://veltzer.github.io/pyfakeuse',
     download_url='https://github.com/veltzer/pyfakeuse',
     author='Mark Veltzer',
     author_email='mark.veltzer@gmail.com',
