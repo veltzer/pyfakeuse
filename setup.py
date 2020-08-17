@@ -9,7 +9,7 @@ def get_readme():
 setuptools.setup(
     # the first three fields are a must according to the documentation
     name="pyfakeuse",
-    version="0.0.7",
+    version="0.0.8",
     packages=[
         'pyfakeuse',
     ],
