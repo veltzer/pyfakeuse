@@ -16,6 +16,8 @@
 ![Downloads](https://pepy.tech/badge/pyfakeuse/month)
 ![Downloads](https://pepy.tech/badge/pyfakeuse/week)
 
+[![Known Vulnerabilities](https://snyk.io/test/github/veltzer/pyfakeuse/badge.svg?targetFile=requirements.txt)](https://snyk.io/test/github/veltzer/pyfakeuse?targetFile=requirements.txt)
+
 
 
 pyfakeuse helps you fool development environments and code inspectors
