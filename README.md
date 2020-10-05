@@ -19,10 +19,13 @@
 [![Known Vulnerabilities](https://snyk.io/test/github/veltzer/pyfakeuse/badge.svg?targetFile=requirements.txt)](https://snyk.io/test/github/veltzer/pyfakeuse?targetFile=requirements.txt)
 
 
+Actions
+
+![build](https://github.com/veltzer/pyfakeuse/workflows/build/badge.svg)
 
 pyfakeuse helps you fool development environments and code inspectors
 
-project website: <https://veltzer.github.io/pyfakeuse>
+project website: https://veltzer.github.io/pyfakeuse
 
 chat with me at [![gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/veltzer/mark.veltzer)
 
