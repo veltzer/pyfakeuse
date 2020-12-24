@@ -12,11 +12,6 @@
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/pyfakeuse)
 
 ![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)
-![Downloads](https://pepy.tech/badge/pyfakeuse)
-![Downloads](https://pepy.tech/badge/pyfakeuse/month)
-![Downloads](https://pepy.tech/badge/pyfakeuse/week)
-
-[![Known Vulnerabilities](https://snyk.io/test/github/veltzer/pyfakeuse/badge.svg?targetFile=requirements.txt)](https://snyk.io/test/github/veltzer/pyfakeuse?targetFile=requirements.txt)
 
 
 Actions
