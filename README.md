@@ -14,7 +14,6 @@
 ![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)
 
 ![build](https://github.com/veltzer/pyfakeuse/workflows/build/badge.svg)
-
 pyfakeuse helps you fool development environments and code inspectors
 
 project website: https://veltzer.github.io/pyfakeuse

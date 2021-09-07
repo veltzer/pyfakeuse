@@ -3,5 +3,5 @@
 
 
 # noinspection PyUnusedLocal
-def fake_use(*p):
+def fake_use(*_p):
     pass
