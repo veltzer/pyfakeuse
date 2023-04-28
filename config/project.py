@@ -1,3 +1,4 @@
+name = "pyfakeuse"
 description_short = "pyfakeuse helps you fool development environments and code inspectors"
 keywords = [
     "python",
