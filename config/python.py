@@ -1,15 +1,14 @@
 from typing import List
 
 
-config_requires: List[str] = [
-    "pyclassifiers",
-]
 dev_requires: List[str] = [
     "pypitools",
 ]
+config_requires: List[str] = [
+    "pyclassifiers",
+]
 install_requires: List[str] = []
 make_requires: List[str] = [
-    "pyclassifiers",
     "pymakehelper",
     "pydmt",
 ]
