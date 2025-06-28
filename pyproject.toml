@@ -1,0 +1,51 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "pyfakeuse"
+version = "0.0.9"
+requires-python = ">=3.12"
+authors = [
+	{ name = "Mark Veltzer", email = "mark.veltzer@gmail.com" }
+]
+maintainers = [
+	{ name = "Mark Veltzer", email = "mark.veltzer@gmail.com" }
+]
+description = "pyfakeuse helps you fool development environments and code inspectors"
+readme = "README.md"
+license = "MIT"
+keywords=[
+    "python",
+    "fake",
+    "use",
+    "variables",
+    "idea",
+    "pycharm",
+    "fool",
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Environment :: Console",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Utilities",
+    "License :: OSI Approved :: MIT License",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/veltzer/pyfakeuse"
+"Bug Tracker" = "https://github.com/veltzer/pyfakeuse/issues"
+"Documentation" = "https://veltzer.github.io/pyfakeuse"
+"Download" = "https://pypi.org/project/pyfakeuse/"
+"Repository" = "https://github.com/veltzer/pyfakeuse"
+
+
+[tool.ruff]
+line-length = 130
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
