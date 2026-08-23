@@ -9,3 +9,4 @@ KEYWORDS = {
     "pycharm",
     "fool",
 }
+PYPI = true
