@@ -1,3 +1,6 @@
+<!-- This file is generated. Do not edit it by hand: your changes will be
+     lost on the next build. Edit the template it is rendered from, or the
+     values that template reads, and build again. -->
 # *pyfakeuse* project by Mark Veltzer
 
 description: pyfakeuse helps you fool development environments and code inspectors
