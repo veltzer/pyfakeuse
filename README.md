@@ -5,7 +5,7 @@
 
 description: pyfakeuse helps you fool development environments and code inspectors
 
-project website: https://veltzer.github.io/pyfakeuse
+project website: <https://veltzer.github.io/pyfakeuse>
 
 author: Mark Veltzer
 
